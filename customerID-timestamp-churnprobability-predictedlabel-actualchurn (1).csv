@@ -1,0 +1,4 @@
+"customerID","timestamp","churn_probability","predicted_label","actual_churn"
+"7590-VHVEG","2025-01-01","0.05","0","0"
+"7590-VHVEG","2025-02-01","0.08","0","0"
+"5575-GNVDE","2025-01-01","0.80","1","1"
