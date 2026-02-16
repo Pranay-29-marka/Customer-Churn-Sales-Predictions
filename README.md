@@ -1,2 +1,5 @@
 # Customer-Churn-Sales-Predictions
-Built supervised learning & Deep Learning models to identify customers likely to leave and analyzed sales patterns.  Tools: Python (Pandas, Seaborn, sckit Learn, Tensorflow), Lovabel Ai for business dashboards.
+Developed supervised learning models, including an XGBoost Classifier, to predict customer churn and analyze sales behavior, providing a clear understanding of customer retention dynamics and identifying key churn drivers.
+Identified key drivers of churn and predicted customer recommendations, enabling the proactive retention of high-risk customers based on predictive analytics.
+Built interactive dashboards in Power BI to visualize churn trends, customer behavior, and key performance indicators (KPIs), presenting actionable insights for enhanced customer retention strategies.
+Tech Stack: Python (Scikit-learn, Pandas, XGBoost), Power BI.
